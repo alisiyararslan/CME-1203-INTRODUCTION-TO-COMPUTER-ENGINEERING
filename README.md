@@ -1,0 +1,1 @@
+Program downloads e-books and save them to a text file. After correctly saving the e-book to a text file, program be able to read it and create word frequencies of that book, meaning counting the number of times words has been used in that e-book. During this operation, program also remove stop words (the, a, he, she, it, etc.)
